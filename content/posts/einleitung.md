@@ -1,7 +1,7 @@
 ---
 title: "Einleitung"
 date: 2023-08-22T10:37:50+02:00
-draft: true
+draft:
 ---
 
 ## Was ist Barrierefreiheit?
